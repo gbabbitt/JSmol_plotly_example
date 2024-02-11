@@ -3,13 +3,10 @@ an example of a webserver that employs plotly.js, d3.js and JSmol molecular visu
 webserver prototype
 
 1) unzip the html folder
-2) unzip the j2s folder
-3) unzip the jsmol folder
-4) move the j2s folder into the jsmol folder
-5) move the jsmol folder into the html folder
-6) unzip my_examples folder
-7) move my_examples folder into the html folder
-8) move contents of this html folder into the html folder in your local apache server
+2) unzip the jsmol folder
+3) unzip my_examples folder
+4) move the jsmol and my_examples folders into the html folder
+5) move contents of this html folder into the html folder in your local apache server
 
 instructions for running this page on your local server goes as follows
 
